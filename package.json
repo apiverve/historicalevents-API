@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/historicalevents",
+  "version": "1.0.0",
+  "description": "Historical Events is a simple tool for getting historical events. It returns a list of historical events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/historicalevents-API.git"
+  },
+  "keywords": [
+    "historical events"," history"," historical events api"," history api"," historical events data"," history data"," historical events tool"," history tool"," historical events software"," history software"," historical events service"," history service"," historical events library"," history library"," historical events sdk"," history sdk"," historical events code"," history code"," historical events script"," history script"," historical events program"," history program"," historical events application"," history application"," historical events app"," history app"," historical events utility"," history utility"," historical events helper"," history helper"," historical events helper tool"," history helper tool"," historical events helper software"," history helper software"," historical events helper service"," history helper service"," historical events helper library"," history helper library"," historical events helper sdk"," history helper sdk"," historical events helper code"," history helper code"," historical events helper script"," history helper script"," historical events helper program"," history helper program"," historical events helper application"," history helper application"," historical events helper app"," history helper app"," historical events helper tool"," history helper tool"," historical events helper utility"," history helper utility"," historical events helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/historicalevents-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/historicalevents-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
