@@ -131,7 +131,8 @@ api.execute(query, function (error, data) {
         "granularity": "year"
       }
     ]
-  }
+  },
+  "code": 200
 }
 ```
 
